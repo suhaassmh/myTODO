@@ -4,7 +4,8 @@ Built using Flutter and SQLite.
 
 ### Screenshots
 
-![1st page](screenshots/1stpage.jpeg?raw=true )  ![2nd page](screenshots/2ndpage.jpeg?raw=true ) 
+<img src="screenshots/1stpage.jpeg" alt="1st page" style="width:30px; height:100px"/>
+![2nd page](screenshots/2ndpage.jpeg?raw=true ) 
 
 
 ### steps
