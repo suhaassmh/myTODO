@@ -2,9 +2,6 @@
 A simple fully-fledged TODO mobile application. 
 Built using Flutter and SQLite.
 
-### Screenshots
-
-<img src="screenshots/allpage.jpeg" alt="screens" />
 
 
 
